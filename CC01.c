@@ -1,11 +1,12 @@
 #Problem:-
-#Write a C program that takes user input, checks for positive integer and prints "Yes" 
-# if it is a power of 2, else prints "No" by default for #whatever other case. 
-# Use stdio.h but code can't have semi-colon (;)
+# Write a C program that takes user input, checks for positive integer and prints
+# "Yes" if it is a power of 2, else prints "No" by default for #whatever other case. 
+#  Use stdio.h but code can't have semi-colon (;)
 ###################################
 
-#Official Solution:- (courtesy Snehasis Banerjee)
+# Official Solution:- (courtesy Snehasis Banerjee)
 
+#include <stdio.h>
 void main(int x, float f)
 {
     if( printf("Enter a positive integer: ") &&
@@ -15,7 +16,7 @@ void main(int x, float f)
 }
 ###################################
 
-#Winning Solution:- (courtesy Bidyut Chakraborty)
+# Winning Solution:- (courtesy Bidyut Chakraborty)
 
 #include <stdio.h>
 #include <stdlib.h>
