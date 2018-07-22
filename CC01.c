@@ -1,5 +1,7 @@
 #Problem:-
-#Write a C program that takes user input, checks for positive integer and prints "Yes" if it is a power of 2, else prints "No" by default for #whatever other case. Use stdio.h but code can't have semi-colon (;)
+#Write a C program that takes user input, checks for positive integer and prints "Yes" 
+# if it is a power of 2, else prints "No" by default for #whatever other case. 
+# Use stdio.h but code can't have semi-colon (;)
 ###################################
 
 #Official Solution:- (courtesy Snehasis Banerjee)
